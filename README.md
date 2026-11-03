@@ -1,5 +1,8 @@
 # TZHC A-Share Index & Drawdown Analysis System
 
+[![Tests](https://github.com/Li-AmG/tzhc-index-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/Li-AmG/tzhc-index-analysis/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 一个面向中国大陆 A 股研究场景的开源指数、信号、回撤与模拟交易分析系统。项目提供 Streamlit 可视化看板、桌面界面、回测引擎、策略研究模块、审计记录和纸面交易账户。
 
 > 本仓库是研究与教育工具，不提供投资建议，不保证收益，也不连接券商执行真实交易。示例行情为合成数据。
@@ -94,4 +97,3 @@ date,symbol,open,high,low,close,volume
 ## English summary
 
 TZHC is an open-source research dashboard and backtesting toolkit for mainland China A-share workflows. It includes configurable market rules, drawdown controls, multiple signal/strategy modules, paper trading, audit logs, a Streamlit dashboard, and synthetic demo data. It is for research and education only—not investment advice or an execution system.
-

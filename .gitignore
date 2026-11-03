@@ -24,6 +24,8 @@ dist/
 *.png
 *.jpg
 *.jpeg
+!docs/assets/*.png
+.edge-capture/
 
 # Secrets and local configuration overrides
 .env

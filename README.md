@@ -7,6 +7,17 @@
 
 > 本仓库是研究与教育工具，不提供投资建议，不保证收益，也不连接券商执行真实交易。示例行情为合成数据。
 
+## 界面预览
+
+![TZHC 量化回撤动态看板](docs/assets/dashboard-overview.png)
+
+<details>
+<summary>查看动态演示 GIF</summary>
+
+![TZHC Streamlit 看板动态演示](docs/assets/dashboard-demo.gif)
+
+</details>
+
 ## 主要能力
 
 - **大陆市场规则**：支持 100 股一手、佣金最低收费、卖出印花税、滑点与不同板块涨跌停参数。
